@@ -222,28 +222,14 @@
     "@vaadin/vaadin-virtual-list": "$@vaadin/vaadin-virtual-list",
     "@vaadin/vertical-layout": "$@vaadin/vertical-layout",
     "@vaadin/virtual-list": "$@vaadin/virtual-list",
-    "@vaadin/board": "$@vaadin/board",
-    "@vaadin/charts": "$@vaadin/charts",
     "@vaadin/confirm-dialog": "$@vaadin/confirm-dialog",
-    "@vaadin/cookie-consent": "$@vaadin/cookie-consent",
-    "@vaadin/crud": "$@vaadin/crud",
-    "@vaadin/grid-pro": "$@vaadin/grid-pro",
-    "@vaadin/map": "$@vaadin/map",
-    "@vaadin/rich-text-editor": "$@vaadin/rich-text-editor",
-    "@vaadin/vaadin-board": "$@vaadin/vaadin-board",
-    "@vaadin/vaadin-charts": "$@vaadin/vaadin-charts",
     "@vaadin/vaadin-confirm-dialog": "$@vaadin/vaadin-confirm-dialog",
-    "@vaadin/vaadin-cookie-consent": "$@vaadin/vaadin-cookie-consent",
-    "@vaadin/vaadin-crud": "$@vaadin/vaadin-crud",
-    "@vaadin/vaadin-grid-pro": "$@vaadin/vaadin-grid-pro",
-    "@vaadin/vaadin-rich-text-editor": "$@vaadin/vaadin-rich-text-editor",
     "@vaadin/common-frontend": "$@vaadin/common-frontend",
     "construct-style-sheets-polyfill": "$construct-style-sheets-polyfill",
     "lit": "$lit",
     "@polymer/polymer": "$@polymer/polymer",
     "date-fns": "$date-fns",
     "@vaadin/multi-select-combo-box": "$@vaadin/multi-select-combo-box",
-    "proj4": "$proj4",
     "line-awesome": "$line-awesome",
     "@vaadin-component-factory/vcf-nav": "$@vaadin-component-factory/vcf-nav",
     "@praxo/mre-exports": "$@praxo/mre-exports"
@@ -373,7 +359,7 @@
       "workbox-core": "6.5.0",
       "workbox-precaching": "6.5.0"
     },
-    "hash": "755ee5d3d7c66ea895029e37b7ff66a999a2707156a79fc9fb2582dd9fb83e68",
+    "hash": "c902b6596d5e84d4b34b0457eaf925d00c7965d428667d0213e018639fc39f40",
     "workspaces": [
       "packages/*"
     ]
