@@ -1,0 +1,21 @@
+{
+  "name": "@praxo/mre-exports",
+  "version": "1.0.0",
+  "description": "Test package",
+  "main": "dist/src/index.js",
+  "module": "dist/src/index.js",
+  "exports": {
+    ".": "./dist/src/index.js",
+    "./other.js": "./dist/src/other.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "tslib": "^2.3.1",
+    "typescript": "^4.5.2"
+  },
+  "author": "test",
+  "license": "ISC"
+}
