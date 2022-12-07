@@ -7,7 +7,7 @@ buildscript {
 }
 
 plugins {
-    id 'java-library'
+    id 'java'
 }
 
 defaultTasks("build")
