@@ -359,7 +359,7 @@
       "workbox-core": "6.5.0",
       "workbox-precaching": "6.5.0"
     },
-    "hash": "755ee5d3d7c66ea895029e37b7ff66a999a2707156a79fc9fb2582dd9fb83e68",
+    "hash": "c902b6596d5e84d4b34b0457eaf925d00c7965d428667d0213e018639fc39f40",
     "workspaces": [
       "packages/*"
     ]
